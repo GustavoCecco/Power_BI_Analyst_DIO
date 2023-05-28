@@ -1,0 +1,1 @@
+Esse é um relatório criado para exercitar algumas medidas simples e iniciais no Power BI. O relatório conta com a análise do valor que foi investido em ações e qual a porcentagem de retorno do capital até o momento.
